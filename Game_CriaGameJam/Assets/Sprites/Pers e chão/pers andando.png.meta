@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: adcfc6e8cd3f93248b13037dbcc83e4f
+guid: 835240c0af039554b955f321397c6a27
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 13
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -93,17 +93,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "ch\xE3o _0"
+      name: pers andando_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 16
-        width: 16
-        height: 16
+        x: 5
+        y: 34
+        width: 10
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02f95342c8c1a7848b351c0fd73903d7
-      internalID: -1731101495
+      spriteID: f8ab20854ac04c644abed0d62ee4eaf2
+      internalID: 858355697
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "ch\xE3o _1"
+      name: pers andando_1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 16
-        width: 16
-        height: 16
+        x: 19
+        y: 36
+        width: 19
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb703e127d1797f438f7220f02f3518d
-      internalID: -84284468
+      spriteID: e33af030ef4cbeb48bf5b4ec59276d1b
+      internalID: -1032284203
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "ch\xE3o _2"
+      name: pers andando_2
       rect:
         serializedVersion: 2
-        x: 0
+        x: 5
         y: 0
-        width: 16
-        height: 16
+        width: 10
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66a4cedad66d85748b3784a8e5496927
-      internalID: -1853627123
+      spriteID: 34c530888069cdd4da9edfbc74628c33
+      internalID: -2052095503
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "ch\xE3o _3"
+      name: pers andando_3
       rect:
         serializedVersion: 2
-        x: 16
-        y: 0
-        width: 16
-        height: 16
+        x: 20
+        y: 2
+        width: 17
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,8 +187,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c23b0ff35d9fb0942a453dc96fb5be35
-      internalID: -305769987
+      spriteID: e8707f568e780f444acfe322e2e80cfd
+      internalID: 422415444
       vertices: []
       indices: 
       edges: []
@@ -191,10 +204,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      "ch\xE3o _0": -1731101495
-      "ch\xE3o _1": -84284468
-      "ch\xE3o _2": -1853627123
-      "ch\xE3o _3": -305769987
+      pers andando_0: 858355697
+      pers andando_1: -1032284203
+      pers andando_2: -2052095503
+      pers andando_3: 422415444
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
